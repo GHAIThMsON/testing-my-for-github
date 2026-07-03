@@ -44,15 +44,22 @@ def main():
         run(["git", "config", "user.email", "bot@uploader.local"])
         run(["git", "config", "user.name", "UploadBot"])
 
+    run(["git", "fetch", "origin"])
+    try:
+        run(["git", "rev-parse", "origin/main"])
+        run(["git", "reset", "origin/main"])
+    except SystemExit:
+        pass
+
     run(["git", "add", "-A"])
-    run(["git", "commit", "--allow-empty", "-m", "Upload folders to repo"])
+    run(["git", "commit", "--allow-empty", "-m", "Upload files to repo"])
 
     branch = run(["git", "rev-parse", "--abbrev-ref", "HEAD"])
     if branch != "main":
         run(["git", "branch", "-m", "main"])
 
     print("Pushing to remote...")
-    run(["git", "push", "-u", "--force", "origin", "main"])
+    run(["git", "push", "-u", "origin", "main"])
     print("Done! Files uploaded successfully.")
 
 
